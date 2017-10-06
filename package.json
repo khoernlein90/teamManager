@@ -1,0 +1,22 @@
+{
+  "name": "teammanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teamManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoernlein90/teamManager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khoernlein90/teamManager/issues"
+  },
+  "homepage": "https://github.com/khoernlein90/teamManager#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
